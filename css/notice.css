@@ -1,0 +1,29 @@
+.notice{
+    text-align: center;
+    margin-top:56px;
+}
+.notice .tit h2{
+    font-size:30px;
+}
+.notice .tit strong{
+    display: block; 
+    padding:10px 0 20px 0;
+    font-size:18px;
+}
+.notice .tit strong:hover{
+    color:rgb(236, 244, 176);
+}
+.notice .read ul li{
+    padding:10px 0;
+}
+.notice a{
+    display:inline-block;
+    margin:10px;
+}
+.notice a img{
+    width:24px;
+}
+.notice a span{
+    font-size:0;
+    line-height:0;
+}
