@@ -10,6 +10,14 @@
     margin-right:50px;
     clear: right;
 }
+.tit .top audio{
+    position: relative;
+    float: right;
+    z-index:1000;
+    width:300px;
+    height:30px;
+    margin:0 50px 20px 0;
+}
 .tit .top strong{
     float: right;
     clear: right;
@@ -73,4 +81,7 @@ img{
     font-size:25px;
     font-weight:700;
     margin-bottom: 10px;
+}
+.bottom ul li h2:hover{
+    color:rgb(228, 204, 85);
 }

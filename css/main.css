@@ -13,7 +13,11 @@
     color:transparent;
     -webkit-text-stroke:1px #1d1d1d;
 }
+.header .gnb{
+    display:inline-block
+}
 .header .gnb ul{
+    width:120px;
     margin:100px 0 0 50px;
 }
 .header .gnb ul li{
